@@ -1,0 +1,13 @@
+flutter:
+  module:
+    androidX: true
+    androidPackage: com.example.xyz_hotel_booking
+    iosBundleIdentifier: com.example.xyzHotelBooking
+
+platforms:
+  android:
+    package: com.example.xyz_hotel_booking
+  ios:
+    bundleIdentifier: com.example.xyzHotelBooking
+
+project_type: app
